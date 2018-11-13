@@ -1,2 +1,3 @@
 # atstudies.github.io
-Home Page
+
+A Landing Page for the department of Art + Technology Studies at SAIC
